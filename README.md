@@ -1,7 +1,8 @@
-# Get-Started-Faster
-A CLI tool for developers to get started on projects faster. (Nodejs)
+# dev-tool-box
 
-# Fasta (Get-Started-Faster)
+A CLI tool for developers to get started on projects faster
+
+# Fasta (dev-too-box)
 
 A Command Line Interface (tool) to help developers set up projects faster with automatically installed dependencies and dockerized boilerplates.
 
@@ -73,12 +74,6 @@ Choose which stack to start with for the project.
 
 If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
-## Links (Have to be public)
-
-- Project homepage: https://github.com/solvit-dsaa-training/Get-Started-Faster
-- Repository: https://github.com/solvit-dsaa-training/Get-Started-Faster
-- Issue tracker: https://github.com/solvit-dsaa-training/Get-Started-Faster
-- In case of sensitive bugs like security vulnerabilities, please contact info@solvx.tech directly instead of using issue tracker. We value your effort to improve the security and privacy of this project!
 
 ## Related projects:
 Other solvit trainee projects: https://github.com/solvit-dsaa-training/
@@ -86,14 +81,4 @@ Other solvit trainee projects: https://github.com/solvit-dsaa-training/
 ## Licensing
 The code in this project will be licensed.
 
-
-## Developed by
-- [ricahcyuzuzo](https://github.com/ricahcyuzuzo)
-- [mucyoarsene](https://github.com/mucyoarsene)
-- [floGitCode](https://github.com/floGitCode)
-- [ghisia](https://github.com/ghisia)
-- [cop1fab](https://github.com/cop1fab)
-- [chantal2000](https://github.com/chantal2000)
-- [mfiston2020](https://github.com/mfiston2020)
-- README by floGitCode
 
