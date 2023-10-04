@@ -75,10 +75,3 @@ Choose which stack to start with for the project.
 If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
 
-## Related projects:
-Other solvit trainee projects: https://github.com/solvit-dsaa-training/
-
-## Licensing
-The code in this project will be licensed.
-
-
