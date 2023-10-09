@@ -1,8 +1,8 @@
-# dev-tool-box
+# Techify
 
 A CLI tool for developers to get started on projects faster
 
-# Fasta (dev-too-box)
+# Fasta (Techiy)
 
 A Command Line Interface (tool) to help developers set up projects faster with automatically installed dependencies and dockerized boilerplates.
 
