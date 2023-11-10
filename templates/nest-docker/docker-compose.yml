@@ -1,0 +1,31 @@
+version: '3'
+
+services:
+  app:
+    restart: on-failure
+    build: .
+    depends_on:
+      - postgres
+    ports:
+      - '3000:3000'
+
+  postgres:
+    container_name: testing
+    image: postgres:latest
+    environment:
+      POSTGRES_USER: ${DB_USERNAME}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+      POSTGRES_DB: ${DB_NAME}
+      PGDATA: /data/postgres
+    volumes:
+      - testing:/data/postgres
+    ports:
+      - '5432:5432'
+
+  # adminer:
+  #   image: adminer
+  #   ports:
+  #     - '8080:8080'
+
+volumes:
+  testing:
